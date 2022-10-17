@@ -1,0 +1,14 @@
+.title{
+    color: rgb(14, 210, 210);
+}
+.main{
+    height: 200px;
+    background-image: url(../Images/React-icon.jpg);
+    background-repeat: no-repeat;
+    background-size: 200px 150px;
+    background-position-x: center;
+}
+.main > li::marker{
+    color: aqua;
+    
+}
